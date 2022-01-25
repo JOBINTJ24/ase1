@@ -6,4 +6,6 @@
 
  text adding from branch 1
  ending of branch 1
-  
+starting of branch 2
+this text from  branch 2
+end of branch 2
