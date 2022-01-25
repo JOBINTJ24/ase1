@@ -3,3 +3,7 @@
 
    merging starts here
   
+starting of branch 2
+
+this text from  branch 2
+end of branch 2
